@@ -1,5 +1,5 @@
-import Menu from "../components/menu"
-import Banner from "../components/banner"
+import Menu from "../components/Menu"
+import Banner from "../components/Banner"
 import Rooms from "../components/Rooms"
 import About from "../components/About"
 import Ours from "../components/Ours"
